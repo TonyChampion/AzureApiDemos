@@ -1,0 +1,6 @@
+@FrontDoorAndCaching_HostAddress = http://localhost:5098
+
+GET {{FrontDoorAndCaching_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
